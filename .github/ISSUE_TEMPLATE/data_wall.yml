@@ -1,7 +1,6 @@
 name: Data wall or source request
 description: Report missing data, provenance blockers, hashes, access paths, or dataset alternatives.
 title: "[Data Wall]: "
-labels: ["data-wall", "provenance"]
 body:
   - type: dropdown
     id: branch
@@ -42,4 +41,3 @@ body:
       description: What should be done after this data wall is repaired?
     validations:
       required: false
-

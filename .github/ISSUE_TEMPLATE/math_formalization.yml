@@ -1,7 +1,6 @@
 name: Mathematics formalization
 description: Propose or critique definitions, theorem statements, proof obligations, or falsification criteria.
 title: "[Formalization]: "
-labels: ["formalization", "math-candidate"]
 body:
   - type: textarea
     id: object
@@ -31,4 +30,3 @@ body:
       description: Is this general COT or branch-specific?
     validations:
       required: false
-
