@@ -1,5 +1,7 @@
 # Evidence Status
 
+Research originator and project steward: **Frederick M. Parker**.
+
 ## Summary Table
 
 | Branch | Highest Honest State | Evidence That Exists | Current Blocker | Promotion |
@@ -133,4 +135,3 @@ Next required gate:
 3. Preserve the frozen theta_V definition and calibration anchor.
 4. Run one bounded evaluation.
 5. Promote only if it strictly beats the reference on all frozen metrics.
-

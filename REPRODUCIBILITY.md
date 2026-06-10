@@ -1,5 +1,7 @@
 # Reproducibility Guide
 
+Research originator and project steward: **Frederick M. Parker**.
+
 This public package does not include raw datasets or private/local artifacts. It records the state needed for a reviewer to reproduce or challenge the work.
 
 ## General Rules
@@ -91,4 +93,3 @@ Minimal next reproducible step:
 4. Compare against `compressed_cmb_no_sn_reference`.
 5. Require strict improvement on all frozen metrics.
 6. Treat ties as failure.
-

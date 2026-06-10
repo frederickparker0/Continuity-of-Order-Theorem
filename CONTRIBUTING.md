@@ -1,5 +1,7 @@
 # Contributing to the Continuity-of-Order Research Program
 
+Research originator and project steward: **Frederick M. Parker**.
+
 Thank you for taking the work seriously enough to test it.
 
 This repository is not asking contributors to believe COT. It is asking them to help determine what COT is:
@@ -118,4 +120,3 @@ Progress can be any of the following:
 - or a falsification that saves everyone time.
 
 This project advances by becoming harder to fool.
-

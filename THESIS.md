@@ -1,5 +1,7 @@
 # Thesis Statement
 
+Research originator and project steward: **Frederick M. Parker**.
+
 ## Provisional Thesis
 
 Continuity-of-Order (COT) is a theorem-candidate framework for testing whether ordered histories preserve transition information that static, pointwise, or aggregate summaries can erase.
@@ -35,4 +37,3 @@ The live question is:
 The current answer is:
 
 > Not yet. The next honest work is to close the exact data/provenance gates and then run locked scoring attempts.
-

@@ -1,5 +1,7 @@
 # Continuity-of-Order: Honest Compendium of the Current Work
 
+Research originator and project steward: **Frederick M. Parker**.
+
 ## Abstract
 
 This compendium records the current state of a Continuity-of-Order (COT) theorem-candidate program. The working hypothesis is that ordered path history can expose transition information that pointwise, aggregate, or static summaries can miss. The project has been tested or scaffolded across turbulence, transition-front, fracture, plasma, protein-folding, Planck/action-phase, and DESI/vacuum-energy diagnostic branches.
@@ -163,4 +165,3 @@ This package is worth publishing as a public research record because it makes th
 The intended public invitation is:
 
 > Here is the current COT theorem-candidate program. It has not earned theorem status. These are the exact gates it must pass next.
-

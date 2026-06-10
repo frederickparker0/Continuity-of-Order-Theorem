@@ -1,5 +1,7 @@
 # Continuity-of-Order Theorem Candidate
 
+Research originator and project steward: **Frederick M. Parker**.
+
 ## Informal Statement
 
 Systems that appear chaotic, turbulent, unstable, or failure-driven may still preserve order in their histories. If that order is tracked as a path, rather than as isolated states or aggregate summaries, it may reveal transition structure before the transition is obvious in ordinary measurements.

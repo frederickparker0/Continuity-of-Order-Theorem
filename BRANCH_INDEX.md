@@ -1,5 +1,7 @@
 # COT Branch Index
 
+Research originator and project steward: **Frederick M. Parker**.
+
 This repository represents the public face of the Continuity-of-Order research program. The active archive contains more than the first three public branches. This index widens the public map while keeping every branch inside its honest evidence boundary.
 
 No branch listed here has earned an unrestricted theorem claim.
@@ -85,4 +87,3 @@ This branch should be split mentally into DESI DR2 dark-energy protocol scaffold
 ### Failure and Gauntlet System
 
 The failure branch is infrastructure. It tracks blockers, data walls, mutation failures, and claim-boundary repairs. It cannot promote COT by itself.
-

@@ -1,5 +1,7 @@
 # Public Roadmap
 
+Research originator and project steward: **Frederick M. Parker**.
+
 This roadmap is a work queue, not a promise of success.
 
 ## Phase 1: Stabilize the Public Record
@@ -109,4 +111,3 @@ Possible output forms:
 - branch-specific benchmark package.
 
 The honest destination depends on what survives.
-

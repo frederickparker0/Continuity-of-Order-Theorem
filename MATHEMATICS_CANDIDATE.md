@@ -1,5 +1,7 @@
 # Route to a Mathematics Candidate
 
+Research originator and project steward: **Frederick M. Parker**.
+
 This document states how the Continuity-of-Order work can move from research program toward a mathematical candidate without pretending it has already arrived.
 
 ## Current Object
@@ -96,4 +98,3 @@ COT becomes mathematics-grade when a branch supplies a frozen object and a falsi
 - exact failure condition.
 
 Until then, it remains a structured research program. That is acceptable. The purpose of this repository is to make the transition visible and testable.
-

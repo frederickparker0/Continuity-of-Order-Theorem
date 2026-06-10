@@ -1,5 +1,7 @@
 # Failure and Data Walls
 
+Research originator and project steward: **Frederick M. Parker**.
+
 This project treats failure records as first-class evidence. A failure row should state what failed, why it failed, what evidence proves the failure, and what exact next test would resolve it.
 
 ## Active Turbulence Data Wall
@@ -87,4 +89,3 @@ The same failure pattern appears across branches:
 3. honest progress requires a sharper contract, not looser claims.
 
 This is a useful pattern, not a reason to force promotion.
-

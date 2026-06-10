@@ -1,5 +1,7 @@
 # Reviewer Packet
 
+Research originator and project steward: **Frederick M. Parker**.
+
 This file is for reviewers who want the shortest honest route into the project.
 
 ## One-Sentence Summary
@@ -55,4 +57,3 @@ The best challenges are specific:
 - A strict vacuum/theta_V candidate test that beats the frozen reference.
 - A formal theorem candidate with exact objects and falsification criteria.
 - A negative result that prevents overclaiming.
-

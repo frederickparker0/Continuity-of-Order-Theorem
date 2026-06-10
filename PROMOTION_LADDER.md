@@ -1,5 +1,7 @@
 # Promotion Ladder
 
+Research originator and project steward: **Frederick M. Parker**.
+
 The COT work uses promotion language to prevent overclaiming.
 
 ## Levels
@@ -31,4 +33,3 @@ A promotion attempt is killed by:
 - point-path evidence promoted to region-support evidence,
 - vague data substitution,
 - claim-language drift.
-

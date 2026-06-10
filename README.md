@@ -1,5 +1,7 @@
 # Continuity-of-Order Research Compendium
 
+Research originator and project steward: **Frederick M. Parker**.
+
 This repository is a public-facing compendium of the COT research work across the active branch family:
 
 - core mathematics candidate,
@@ -33,6 +35,7 @@ The strongest current state is:
 Start with:
 
 - [Theorem Candidate](THEOREM_CANDIDATE.md)
+- [Attribution](ATTRIBUTION.md)
 - [Branch Index](BRANCH_INDEX.md)
 - [Route to a Mathematics Candidate](MATHEMATICS_CANDIDATE.md)
 - [Compendium](COMPENDIUM.md)
