@@ -22,6 +22,7 @@ The strongest current state is:
 
 Start with:
 
+- [Theorem Candidate](THEOREM_CANDIDATE.md)
 - [Compendium](COMPENDIUM.md)
 - [Evidence Status](EVIDENCE_STATUS.md)
 - [Failure and Data Walls](FAILURE_AND_DATA_WALLS.md)
@@ -46,4 +47,3 @@ Forbidden:
 ## Data Policy
 
 Raw datasets, large archives, local machine paths, private credentials, and working automation clutter are not included here. Public reproduction should use the listed source datasets and the frozen contracts described in the compendium.
-
