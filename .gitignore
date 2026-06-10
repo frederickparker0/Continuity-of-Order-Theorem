@@ -1,0 +1,21 @@
+# Keep the public package lightweight.
+*.zip
+*.7z
+*.tar
+*.gz
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.parquet
+*.duckdb
+node_modules/
+__pycache__/
+.env
+*.secret
+*_AUTH_TOKEN*
+data/
+datasets/
+raw/
+private/
+

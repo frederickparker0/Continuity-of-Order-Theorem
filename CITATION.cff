@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Continuity-of-Order Research Compendium"
+message: "If you use or discuss this compendium, cite it as a public research record rather than as a proven theorem."
+type: dataset
+date-released: 2026-06-10
+abstract: "A public-facing compendium of Continuity-of-Order theorem-candidate work across turbulence, protein folding, and vacuum-energy diagnostic branches, with explicit failure and data-wall boundaries."
+
