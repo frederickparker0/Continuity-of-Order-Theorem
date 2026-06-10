@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This compendium records the current state of a Continuity-of-Order (COT) theorem-candidate program. The working hypothesis is that ordered path history can expose transition information that pointwise, aggregate, or static summaries can miss. The project has been tested across turbulence, protein folding, and vacuum-energy diagnostic branches.
+This compendium records the current state of a Continuity-of-Order (COT) theorem-candidate program. The working hypothesis is that ordered path history can expose transition information that pointwise, aggregate, or static summaries can miss. The project has been tested or scaffolded across turbulence, transition-front, fracture, plasma, protein-folding, Planck/action-phase, and DESI/vacuum-energy diagnostic branches.
 
 The current result is not a theorem. It is a structured evidence program with strict promotion gates, observed-data rules, failure logs, data-wall requests, and reproducibility packets. The public purpose of this package is to preserve the work honestly enough that another reader can see what was attempted, what passed locally, what failed, and what exact evidence is still required.
 
@@ -42,6 +42,8 @@ The current public package claims no L6/L7 promotion.
 
 ## Branch State
 
+For the full branch map, see [COT Branch Index](BRANCH_INDEX.md).
+
 ### Turbulence
 
 Current claim:
@@ -51,23 +53,50 @@ Current claim:
 Current status:
 
 - C304 exported and structurally admitted the previously missing JHTDB `transition_bl` future-material target payloads.
-- C334 confirmed those C304 payload bytes still match the frozen manifest.
 - C337 converted the blocked source-plus-target provenance request into an exact 96-payload bundle contract.
 - C338 corrected stale 76+16 references to the live 76+20 contract.
-
-What is real:
-
-- 20/20 future-material target payloads exist locally.
-- They are point-material-path payloads, not region-support proof.
 - No scoring has occurred from this repair.
 
 Primary blocker:
 
 - The 76 source-side payloads still need unchanged explicit-token JHTDB reexport/hash admission, or one byte-identical official archived bundle.
 
-Why this matters:
+### Transition Front / Turbulence
 
-- Without source provenance, baseline comparison, wrong-form mutation failure, and scope discipline, a heldout score would not be theorem-grade.
+Current status:
+
+- `COT_TRANSITION_FRONT_TURBULENCE_SINGLE_DOMAIN_PROTOCOL_v0_1` is frozen.
+- The lane is a sparse point-path front surrogate with a residual class-transition target.
+- It is not a true `Gamma_D` front with local normals, tangents, or residual normal motion.
+- It inherits the C337/C338 `76+20` receipt chain but remains no-score.
+
+Primary blocker:
+
+- Admit the 76 source hashes before scoring; admit true front geometry separately before any geometric front-motion claim.
+
+### Fracture / Crack Propagation
+
+Current status:
+
+- The fracture branch has substantial local packets and a grounded C178 proof-obligation rerun.
+- C178 passed only source identity and version-boundary metadata gates.
+- L2/O3 failed because no identifiable access artifact or complete official-md5 `H01.zip` payload was admitted.
+
+Primary blocker:
+
+- Acquire a valid Zenodo `11669624` request/grant/denial artifact or the complete official-md5 `H01.zip` payload before row extraction, replay, scoring, or promotion.
+
+### Plasma Reconnection
+
+Current status:
+
+- C92 locked an MMS reconnection data intake seed.
+- C93 locked the future scoring protocol.
+- The admitted seed is a single-event block, not an event/control scoring set.
+
+Primary blocker:
+
+- Build an externally labeled event/control register with at least 12 positive reconnection intervals and 12 controls, then run event-heldout scoring with baselines and nulls.
 
 ### Protein Folding
 
@@ -79,33 +108,36 @@ Current status:
 - ProteinGym work currently serves as baseline/control scaffolding, not COT support.
 - C193 prepared an external-reproduction validator and kept public promotion blocked.
 
-What is real:
-
-- Some local diagnostic evidence exists.
-- A mechanical external-reproduction validator exists.
-
 Primary blocker:
 
 - Independent external reproduction and generalization remain missing.
 
-### Vacuum Energy / theta_V
+### Planck / Action-Phase
 
 Current status:
 
-- The branch is framed around deriving, constraining, or ruling out a frozen unknown COT vacuum-order diagnostic constant.
+- The branch tests whether COT can recover Planck's constant as an action-phase kernel with `kappa_A = hbar`.
+- Photoelectric data give a close estimate of `h`.
+- Davisson-Germer gives an independent spatial/momentum check within about 1.23% using frozen `h`.
+- Compton rounded primary data failed strict row-level prediction.
+
+Primary blocker:
+
+- Source-grade promotion and strict prediction remain blocked. The public claim is partial recovery only, not derivation.
+
+### DESI / Vacuum Energy / theta_V
+
+Current status:
+
+- DESI DR2 branch status is protocol-created pending chain/posterior import.
 - A strict reference-beat contract exists.
 - The frozen candidate definition is `theta_V = atan2(wa, w0 + 1)` in degrees.
 - The frozen reference benchmark remains `compressed_cmb_no_sn_reference`.
 - Candidate inventory has not yet identified one admissible fill-ready challenger that beats the reference under all frozen metrics.
 
-What is real:
-
-- The reference-beat test contract is ready.
-- The current diagnostic constant remains blocked by null/reference dominance.
-
 Primary blocker:
 
-- Exactly one admissible candidate packet or new heldout family must be predeclared and then beat the reference under strict tie-is-fail rules.
+- Import admissible DESI chain/posterior summaries where required and predeclare exactly one admissible candidate packet or new heldout family that beats the reference under strict tie-is-fail rules.
 
 ## What Has Been Learned
 
@@ -114,6 +146,7 @@ The work has not yet produced a theorem, but it has produced useful negative str
 - Same-source recovery can look strong while still failing independent-source promotion.
 - Target payloads are not enough without source provenance.
 - Point-path evidence cannot be promoted to region-support evidence.
+- Sparse front anchors cannot be promoted to geometric front motion.
 - A local signal can be absorbed by strong baselines.
 - Wrong-form and mutation survival are serious blockers, not details.
 - Claim language must be locked as carefully as code or data.

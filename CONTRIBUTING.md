@@ -21,11 +21,11 @@ All of those outcomes are useful if they are shown honestly.
 5. Compare against strong baselines on the same target.
 6. Include uncertainty or tolerance criteria before claiming a pass.
 7. Keep failure reports. A clean failure is a contribution.
-8. Do not claim COT solves turbulence, protein folding, vacuum energy, or any other branch.
+8. Do not claim COT solves or proves any branch.
 
 ## Good First Contributions
 
-The most useful contributions right now are not broad speculation. They are specific, checkable repairs.
+The most useful contributions right now are specific, checkable repairs.
 
 ### Turbulence
 
@@ -34,14 +34,40 @@ The most useful contributions right now are not broad speculation. They are spec
 - Reproduce the 96-payload source-plus-target contract.
 - Build baseline and wrong-form mutation tests after source provenance is admitted.
 
+### Transition Front / Turbulence
+
+- Reproduce the frozen single-domain protocol.
+- Preserve the sparse-front residual-class boundary.
+- Help admit the 76-source hash lane against C337.
+- Propose a separate true `Gamma_D` front-geometry admission only if normals, tangents, and front motion are source-admitted.
+
+### Fracture / Crack Propagation
+
+- Provide a valid access/grant/denial artifact for Zenodo `11669624`, or an exact official-md5 `H01.zip` payload.
+- Reproduce the C178 proof-obligation state.
+- Do not score older/open substitutes as if they were the latest restricted source.
+
+### Plasma Reconnection
+
+- Build the MMS event/control register required by C93.
+- Provide external reconnection/control labels.
+- Add event-heldout baselines and null controls.
+
 ### Protein Folding
 
 - Independently run the C184/C193 reproduction validator.
 - Test whether the local Domainome signal generalizes outside the original route.
 - Add strong baseline comparisons with identical train/test boundaries.
 
-### Vacuum Energy / theta_V
+### Planck / Action-Phase
 
+- Reproduce the photoelectric and Davisson-Germer recovery checks.
+- Investigate the Compton row-level failure under source-grade rules.
+- Keep derivation language out unless strict prediction gates pass.
+
+### DESI / Vacuum Energy / theta_V
+
+- Import admissible DESI DR2 chain/posterior summaries.
 - Propose exactly one predeclared candidate packet.
 - Preserve the frozen definition: `theta_V = atan2(wa, w0 + 1)` in degrees.
 - Test against `compressed_cmb_no_sn_reference`.
@@ -62,6 +88,7 @@ Every contribution should identify the evidence type:
 - `recovery`: known benchmark used to show the candidate can recover established behavior.
 - `heldout`: not used to build, tune, select, or justify the candidate.
 - `diagnostic`: useful for debugging but not promotion-grade evidence.
+- `protocol`: a locked future route with no score yet.
 - `rejected`: failed provenance, leakage, insufficient uncertainty, or unsupported claim.
 
 ## Pull Request Checklist

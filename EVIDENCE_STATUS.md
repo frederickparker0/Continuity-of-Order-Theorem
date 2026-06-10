@@ -4,9 +4,14 @@
 
 | Branch | Highest Honest State | Evidence That Exists | Current Blocker | Promotion |
 |---|---|---|---|---|
+| Core mathematics candidate | theorem-candidate formalization | path/function/promotion definitions drafted | exact theorem objects and falsification conditions incomplete | No theorem |
 | Turbulence | C338 source-target contract clarified, no scoring | 20/20 future-material target payloads exported and read back; 96-payload contract defined | 76 source payloads need explicit-token reexport/hash admission or exact archived bundle | No L6/L7 |
-| Protein folding | External-reproduction validator prepared | Local Domainome diagnostic/robustness packets; ProteinGym baseline/control scaffolding | Independent reproduction and generalization absent | No public promotion |
-| Vacuum energy / theta_V | Reference-beat contract ready | Frozen theta_V definition and strict reference-beat criteria | No fill-ready single candidate has beaten the frozen reference | No promotion |
+| Transition front / turbulence | frozen single-domain sparse-front protocol | protocol `TURBULENCE_SINGLE_DOMAIN_PROTOCOL_FROZEN_SPARSE_FRONT_NO_SCORE_NO_PROMOTION` | source admission still blocked; true `Gamma_D` geometry not admitted | No score |
+| Fracture / crack propagation | C178 proof-obligation rerun, L2/O3 failed | source identity and latest-version metadata/boundary observations | no identifiable access artifact or exact official-md5 `H01.zip` payload | No scoring/promotion |
+| Plasma reconnection | C93 MMS scoring protocol locked, no score | C92/C93 intake/protocol; 40,710-row single-event seed | event/control register missing; needs at least 12 positives and 12 controls | No score |
+| Protein folding | External-reproduction validator prepared | local Domainome diagnostic/robustness packets; ProteinGym baseline/control scaffolding | independent reproduction and generalization absent | No public promotion |
+| Planck / action-phase | partial recovery only | photoelectric estimate; Davisson-Germer check; Compton failure ledger | source-grade strict prediction/P9 blocked | No derivation/promotion |
+| DESI / vacuum energy / theta_V | protocol/reference-beat contract ready | DESI protocol scaffold; frozen theta_V definition; strict reference-beat criteria | DESI chain import and fill-ready reference-beating candidate missing | No promotion |
 
 ## Turbulence Detail
 
@@ -28,6 +33,54 @@ Next required gate:
 4. Freeze point-path versus region-support boundary.
 5. Only then prepare baseline/mutation scoring lock.
 
+## Transition Front Detail
+
+Key facts:
+
+- The transition-front turbulence protocol is frozen as a sparse point-path front surrogate.
+- It uses a residual class-transition target and a no-score claim boundary.
+- It is not a true `Gamma_D` front with normals, tangents, or residual normal motion.
+- It inherits the C337/C338 `76+20` contract.
+
+Next required gate:
+
+1. Admit the unchanged 76 source hashes against C337.
+2. Preserve the sparse-front/point-path boundary.
+3. Add any future true-front geometry only through a separately frozen `Gamma_D` admission.
+4. Do not score before source admission.
+
+## Fracture / Crack Propagation Detail
+
+Key facts:
+
+- C178 reran proof obligations against official source observations and local scans.
+- L0/O1 and L1/O2 are metadata/boundary passes only.
+- L2/O3 failed: no access artifact and no complete official-md5 `H01.zip`.
+- Schema extraction, scoring, and theorem promotion were not performed.
+
+Next required gate:
+
+1. Admit a Zenodo `11669624` access/grant/denial artifact, or acquire the complete official-md5 payload.
+2. Verify source bytes before schema extraction.
+3. Run frozen replay only after admitted rows exist.
+4. Preserve all active failure records.
+
+## Plasma Reconnection Detail
+
+Key facts:
+
+- C92 created an MMS reconnection intake lock.
+- C93 created a scoring protocol lock.
+- The current seed is one event block, not a scoring dataset.
+- No AUC, model fit, COT score, or promotion exists.
+
+Next required gate:
+
+1. Build external event/control labels.
+2. Include at least 12 positive reconnection intervals and 12 controls.
+3. Split by event id.
+4. Run raw-channel baselines, label shuffle, reversed-time, wrong-interval, and future-leak controls.
+
 ## Protein Folding Detail
 
 Key facts:
@@ -45,11 +98,29 @@ Next required gate:
 2. Show generalization beyond the narrow local Domainome signal.
 3. Require strong baselines and mutation controls before public promotion.
 
-## Vacuum Energy Detail
+## Planck / Action-Phase Detail
 
 Key facts:
 
-- A strict reference-beat test contract exists.
+- Candidate theorem form maps `kappa_A` to `hbar`.
+- Photoelectric calibration gives a close estimate of `h`.
+- Davisson-Germer gives an independent check within about 1.23%.
+- Compton rounded primary data failed strict row-level prediction.
+- No numerical derivation claim is allowed.
+
+Next required gate:
+
+1. Upgrade source-grade evidence.
+2. Predeclare strict prediction tests.
+3. Keep failure ledger authoritative.
+4. Promote only if strict prediction gates pass without language drift.
+
+## DESI / Vacuum Energy Detail
+
+Key facts:
+
+- DESI DR2 branch status is protocol-created pending chain/posterior import.
+- A strict theta_V reference-beat test contract exists.
 - Frozen candidate definition: `theta_V = atan2(wa, w0 + 1)` in degrees.
 - Frozen benchmark: `compressed_cmb_no_sn_reference`.
 - Future challengers must beat the reference on all metrics under tie-is-fail rules.
@@ -57,8 +128,9 @@ Key facts:
 
 Next required gate:
 
-1. Predeclare exactly one admissible candidate packet.
-2. Preserve the frozen theta_V definition and calibration anchor.
-3. Run one bounded evaluation.
-4. Promote only if it strictly beats the reference on all frozen metrics.
+1. Import admissible DESI chain/posterior summaries where required.
+2. Predeclare exactly one admissible candidate packet.
+3. Preserve the frozen theta_V definition and calibration anchor.
+4. Run one bounded evaluation.
+5. Promote only if it strictly beats the reference on all frozen metrics.
 

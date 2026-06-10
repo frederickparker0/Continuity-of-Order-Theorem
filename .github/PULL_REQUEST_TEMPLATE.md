@@ -10,12 +10,13 @@ Choose one:
 - [ ] recovery
 - [ ] heldout
 - [ ] diagnostic
+- [ ] protocol
 - [ ] rejected/failure log
 - [ ] documentation/claim-boundary correction
 
 ## Claim Boundary
 
-- [ ] This PR does not claim COT solves turbulence, protein folding, vacuum energy, or any other branch.
+- [ ] This PR does not claim COT solves/proves turbulence, transition-front prediction, fracture propagation, plasma reconnection, protein folding, Planck derivation, vacuum energy, or any other branch.
 - [ ] This PR does not claim L6/L7 promotion unless the promotion gate is explicitly documented.
 - [ ] Any new claim includes data source, baseline, uncertainty/tolerance, and failure condition.
 
@@ -36,4 +37,3 @@ Choose one:
 ## Notes for Reviewers
 
 State the weakest part of this PR.
-

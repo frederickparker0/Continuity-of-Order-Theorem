@@ -7,9 +7,14 @@ body:
     attributes:
       label: Branch
       options:
+        - Core mathematics candidate
         - Turbulence
+        - Transition front / turbulence
+        - Fracture / crack propagation
+        - Plasma reconnection
         - Protein folding
-        - Vacuum energy / theta_V
+        - Planck / action-phase
+        - DESI / vacuum energy / theta_V
         - General COT
     validations:
       required: true
