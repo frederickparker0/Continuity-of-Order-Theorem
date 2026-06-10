@@ -1,6 +1,7 @@
 name: Claim correction
 description: Flag wording that overstates the evidence or needs sharper boundaries.
 title: "[Claim Correction]: "
+labels: ["claim-boundary"]
 body:
   - type: textarea
     id: location

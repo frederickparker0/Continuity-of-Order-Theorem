@@ -1,6 +1,7 @@
 name: Replication attempt
 description: Report a reproduction, partial reproduction, failed reproduction, or independent rerun.
 title: "[Replication]: "
+labels: ["replication"]
 body:
   - type: dropdown
     id: branch

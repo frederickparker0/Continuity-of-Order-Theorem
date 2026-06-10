@@ -2,6 +2,8 @@
 
 Research originator and project steward: **Frederick M. Parker**.
 
+**Short description:** Continuity-of-Order is a theorem-candidate research program testing whether ordered path histories reveal transition signals missed by static or aggregate summaries.
+
 This repository is a public-facing compendium of the COT research work across the active branch family:
 
 - core mathematics candidate,
@@ -37,6 +39,7 @@ Start with:
 - [Theorem Candidate](THEOREM_CANDIDATE.md)
 - [Attribution](ATTRIBUTION.md)
 - [Branch Index](BRANCH_INDEX.md)
+- [Discovery and Search Terms](DISCOVERY.md)
 - [Route to a Mathematics Candidate](MATHEMATICS_CANDIDATE.md)
 - [Compendium](COMPENDIUM.md)
 - [Evidence Status](EVIDENCE_STATUS.md)
@@ -46,6 +49,27 @@ Start with:
 - [Contributing Guide](CONTRIBUTING.md)
 - [Public Roadmap](ROADMAP.md)
 - [Reviewer Packet](docs/REVIEWER_PACKET.md)
+- [Outreach Packet](docs/OUTREACH_PACKET.md)
+
+## Search Keywords
+
+Useful search phrases:
+
+- Continuity of Order
+- Continuity-of-Order theorem candidate
+- Frederick M. Parker Continuity of Order
+- COT theorem candidate
+- COT path-history diagnostics
+- COT turbulence transition front
+- COT fracture propagation
+- COT plasma reconnection
+- COT protein folding
+- COT Planck action phase
+- COT vacuum energy theta_V
+
+Suggested GitHub topics:
+
+`continuity-of-order`, `theorem-candidate`, `path-history`, `transition-front`, `turbulence`, `fracture-propagation`, `plasma-reconnection`, `protein-folding`, `planck-constant`, `dark-energy`, `vacuum-energy`, `open-science`, `reproducibility`, `evidence-ledger`, `failure-analysis`, `heldout-validation`
 
 ## Public Claim Boundary
 

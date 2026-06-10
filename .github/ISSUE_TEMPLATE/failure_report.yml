@@ -1,6 +1,7 @@
 name: Failure report
 description: Log a failed gate, weakness, contradiction, leakage risk, or overclaim.
 title: "[Failure]: "
+labels: ["failure-log"]
 body:
   - type: dropdown
     id: branch
