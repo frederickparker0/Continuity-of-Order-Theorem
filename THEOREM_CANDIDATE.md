@@ -38,6 +38,8 @@ This is not yet a theorem.
 
 It is currently a theorem-candidate program with active evidence gates. The work has produced diagnostic packets, local signals, failure logs, data-wall requests, and reproducibility contracts, but no public L6/L7 theorem promotion is claimed.
 
+For the formal route from this working idea to a mathematics candidate, see [Route to a Mathematics Candidate](MATHEMATICS_CANDIDATE.md).
+
 ## Branch Interpretations
 
 ### Turbulence
@@ -69,4 +71,3 @@ Forbidden claim:
 > COT has solved turbulence, protein folding, or vacuum energy.
 
 The purpose of this repository is to make the theorem candidate public enough to be criticized, reproduced, and improved without overstating the evidence.
-

@@ -1,0 +1,34 @@
+name: Mathematics formalization
+description: Propose or critique definitions, theorem statements, proof obligations, or falsification criteria.
+title: "[Formalization]: "
+labels: ["formalization", "math-candidate"]
+body:
+  - type: textarea
+    id: object
+    attributes:
+      label: Object being formalized
+      description: Path, state, order, transition, boundary, functional, comparator, metric, or promotion condition.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_definition
+    attributes:
+      label: Proposed definition or critique
+      description: State the definition, ambiguity, or correction.
+    validations:
+      required: true
+  - type: textarea
+    id: falsification
+    attributes:
+      label: Falsification or failure condition
+      description: What would show this definition/claim is wrong, too broad, or not useful?
+    validations:
+      required: true
+  - type: textarea
+    id: branch_scope
+    attributes:
+      label: Scope
+      description: Is this general COT or branch-specific?
+    validations:
+      required: false
+

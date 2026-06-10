@@ -1,0 +1,48 @@
+name: Failure report
+description: Log a failed gate, weakness, contradiction, leakage risk, or overclaim.
+title: "[Failure]: "
+labels: ["failure-log"]
+body:
+  - type: dropdown
+    id: branch
+    attributes:
+      label: Branch
+      options:
+        - Turbulence
+        - Protein folding
+        - Vacuum energy / theta_V
+        - General COT
+    validations:
+      required: true
+  - type: textarea
+    id: failure
+    attributes:
+      label: Failure or weakness
+      description: Describe the problem directly.
+    validations:
+      required: true
+  - type: dropdown
+    id: class
+    attributes:
+      label: Failure class
+      options:
+        - data wall
+        - provenance
+        - leakage
+        - missing baseline
+        - missing uncertainty
+        - hidden tuning
+        - residual repair
+        - formal ambiguity
+        - overclaim
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Possible correction
+      description: What would repair, quarantine, or falsify this route?
+    validations:
+      required: false
+

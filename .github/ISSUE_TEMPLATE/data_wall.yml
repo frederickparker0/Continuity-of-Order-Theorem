@@ -1,0 +1,45 @@
+name: Data wall or source request
+description: Report missing data, provenance blockers, hashes, access paths, or dataset alternatives.
+title: "[Data Wall]: "
+labels: ["data-wall", "provenance"]
+body:
+  - type: dropdown
+    id: branch
+    attributes:
+      label: Branch
+      options:
+        - Turbulence
+        - Protein folding
+        - Vacuum energy / theta_V
+        - General COT
+    validations:
+      required: true
+  - type: textarea
+    id: blocker
+    attributes:
+      label: What is blocked?
+      description: Name the missing file, credential, archive, table, payload, hash, or source.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source or access route
+      description: Include DOI, URL, archive name, checksum, or access notes if known.
+    validations:
+      required: false
+  - type: textarea
+    id: evidence_use
+    attributes:
+      label: Evidence role
+      description: Is this calibration, recovery, heldout, diagnostic, or unknown?
+    validations:
+      required: true
+  - type: textarea
+    id: next_step
+    attributes:
+      label: Proposed next step
+      description: What should be done after this data wall is repaired?
+    validations:
+      required: false
+

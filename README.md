@@ -23,11 +23,15 @@ The strongest current state is:
 Start with:
 
 - [Theorem Candidate](THEOREM_CANDIDATE.md)
+- [Route to a Mathematics Candidate](MATHEMATICS_CANDIDATE.md)
 - [Compendium](COMPENDIUM.md)
 - [Evidence Status](EVIDENCE_STATUS.md)
 - [Failure and Data Walls](FAILURE_AND_DATA_WALLS.md)
 - [Reproducibility Guide](REPRODUCIBILITY.md)
 - [Promotion Ladder](PROMOTION_LADDER.md)
+- [Contributing Guide](CONTRIBUTING.md)
+- [Public Roadmap](ROADMAP.md)
+- [Reviewer Packet](docs/REVIEWER_PACKET.md)
 
 ## Public Claim Boundary
 
@@ -47,3 +51,15 @@ Forbidden:
 ## Data Policy
 
 Raw datasets, large archives, local machine paths, private credentials, and working automation clutter are not included here. Public reproduction should use the listed source datasets and the frozen contracts described in the compendium.
+
+## How to Continue the Work
+
+The fastest way to help is to open one focused issue:
+
+- data wall or source request,
+- replication attempt,
+- mathematics formalization,
+- failure report,
+- claim correction.
+
+Useful contributions make the project harder to fool. A failed replication, a sharper definition, or a corrected overclaim can be as valuable as a pass.

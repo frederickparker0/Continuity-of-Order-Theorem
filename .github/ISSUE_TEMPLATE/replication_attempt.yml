@@ -1,0 +1,51 @@
+name: Replication attempt
+description: Report a reproduction, partial reproduction, failed reproduction, or independent rerun.
+title: "[Replication]: "
+labels: ["replication"]
+body:
+  - type: dropdown
+    id: branch
+    attributes:
+      label: Branch
+      options:
+        - Turbulence
+        - Protein folding
+        - Vacuum energy / theta_V
+        - General COT
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Setup
+      description: Environment, code, dataset versions, hashes, and commands if available.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result
+      description: What passed, failed, or remained blocked?
+    validations:
+      required: true
+  - type: textarea
+    id: baseline
+    attributes:
+      label: Baseline and controls
+      description: Include baselines, mutation controls, uncertainty, or explain why they are absent.
+    validations:
+      required: false
+  - type: dropdown
+    id: evidence_label
+    attributes:
+      label: Evidence label
+      options:
+        - calibration
+        - recovery
+        - heldout
+        - diagnostic
+        - rejected
+        - unknown
+    validations:
+      required: true
+
